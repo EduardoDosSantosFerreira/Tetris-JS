@@ -1,7 +1,8 @@
 # **Tetris: Desafio de Encaixe em JavaScript**
 
-![Tetris](https://github.com/EduardoDosSantosFerreira/Tetris-JS/blob/main/Tetris.png)
-
+<p align="center">
+  <img src="https://github.com/EduardoDosSantosFerreira/Tetris-JS/blob/main/Tetris.png" alt="Tetris">
+</p>
 
 Bem-vindo ao mundo envolvente e desafiador do Tetris, uma experiência clássica agora recriada em JavaScript! Prepare-se para mergulhar na ação frenética, onde a rapidez de raciocínio e a habilidade em manipular peças serão seus maiores aliados.
 
